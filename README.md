@@ -26,4 +26,4 @@ Luego puedes correr de nuevo el script para añadir más usuarios, borrar alguno
 <p align="center">
   <img width="300" src="https://i.imgur.com/szgofzy.png">
 </p>
-# Instalar-servidor-VPN-OpenVPN
+
