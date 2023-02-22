@@ -3,7 +3,7 @@ Instalar **OpenVPN** en Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS y Fedora 
 
 Al ejecutar este script instalará tu propio servidor VPN en menos de 2 min, sin  importar si no haz usado openVPN anteriormente y si no tienes mucha experiencia. Te indicaremos como hacerlo.
 
-# Instalación
+# 🔧 Instalación
 
 Ejecuta el script y sigue las instrucciones: 
 
@@ -26,4 +26,6 @@ Luego puedes correr de nuevo el script para añadir más usuarios, borrar alguno
 <p align="center">
   <img width="300" src="https://i.imgur.com/szgofzy.png">
 </p>
+
+ 👍 Si te gusta el reopositorio si quieres puedes invitarme a un café ☕ https://www.buymeacoffee.com/sead
 
