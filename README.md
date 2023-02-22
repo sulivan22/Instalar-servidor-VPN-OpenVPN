@@ -27,5 +27,5 @@ Luego puedes correr de nuevo el script para añadir más usuarios, borrar alguno
   <img width="300" src="https://i.imgur.com/szgofzy.png">
 </p>
 
- 👍 Si te gusta el reopositorio si quieres puedes [invitarme a un café](https://www.buymeacoffee.com/sead) ☕ 
+ 👍 Si te gusta el reopositorio y si quieres puedes [invitarme a un café](https://www.buymeacoffee.com/sead) ☕  😉
 
